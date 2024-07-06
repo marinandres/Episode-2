@@ -6,5 +6,5 @@ This dataset was provided by a retail company in which we use one item/product t
 ![image](https://github.com/marinandres/Episode-2/assets/42333476/05dd9488-689a-4025-bb17-414b2faaa429)
 
 # Our Result
-With the use of the hybrid model approach we were able to predict the sale forecast really greate with a 77% accuraccy for 6 months
+With the use of the hybrid model approach we were able to predict the sale forecast really greate with a 77% accuracy for 6 months
 ![image](https://github.com/marinandres/Episode-2/assets/42333476/917e2b38-b8fd-4954-a189-637747d32209)
